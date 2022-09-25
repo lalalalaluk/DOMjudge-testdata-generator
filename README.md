@@ -9,9 +9,12 @@
 詳細的使用方法寫在generator.py
 
 
+------------------------------------
+
+
 如果使用的是Mac or Linux
 
-記得要把generator.py裡面的 \\改成/
+記得要把generator.py裡面的 \\\改成/
 
 要給ans.py有可以執行的權限
 
